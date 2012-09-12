@@ -1,0 +1,13 @@
+Unified Framework to Regularized Covariance Estimation in Scaled Gaussian Models,   Ami Wiesel, 2012
+
+
+Robust Shrinkage Estimation of High-dimesional Covariance Matirces, Yilun Chen
+
+Shrinkage Estimation of high dimensional covariance matrices. Yilun chen
+
+Improved estimation of the covariance matrix of stock returns with an applicaiton to portfolio selection.  Olivier Ledoit, Michael Wolf
+
+
+darmois theory
+
+http://www.math.uni.wroc.pl/~pms/files/19.2/Article/19.2.14.pdf
